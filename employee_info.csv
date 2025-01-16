@@ -1,0 +1,8 @@
+employee_id,employee_name,department,working_hours,salary,salary_bonus,data_of_birth,active
+1001.0,Emily Johnson,Human Resources,8,"$55,000 ",5.00%,3/14/1985,Y
+1002.0,Michael Smith,Finance,8,"$72,500 ",7.50%,7/22/1990,Y
+1003.0,Olivia Brown,Marketing,8,"$88,000 ",10.00%,1/8/1987,Y
+1004.0,James Davis,Sales,,"$63,200 ",6.00%,10/30/1982,N
+1005.0,Sophia Miller,Information Technology,8,"$79,500 ",8.00%,5/15/1984,Y
+1006.0,William Wilson,Customer Service,8,"$95,000 ",12.00%,Not Available,Y
+1007.0,Ava Moore,Research and Development,8,"$68,750 ",9.00%,8/25/1991,Y
